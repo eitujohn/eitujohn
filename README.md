@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eitujohn
-- 👀 I’m interested in progri
+- 👀 I’m interested in programming in general.
 - 🌱 I’m currently learning python and c
 - 💞️ I’m looking to collaborate on object oriented programming
 - 📫 How to reach me ...
